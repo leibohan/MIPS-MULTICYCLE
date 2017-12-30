@@ -1,0 +1,101 @@
+{F:/Program Files (x86)/modelsim/examples/ctrl.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/ctrl.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/im.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/im.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_4k
+
+Top level modules:
+	im_4k
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/mips.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/mips.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/dm.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/dm.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_4k
+
+Top level modules:
+	dm_4k
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/lab2 - testbench and requirements/cpu 7 verilog cai/Alu.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/lab2 - testbench and requirements/cpu 7 verilog cai/Alu.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module Alu
+
+Top level modules:
+	Alu
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/lab2 - testbench and requirements/cpu 7 verilog cai/PcUnit.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/lab2 - testbench and requirements/cpu 7 verilog cai/PcUnit.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PcUnit
+
+Top level modules:
+	PcUnit
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/IR.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/IR.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/mips_tb.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/mips_tb.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mips_tb
+
+Top level modules:
+	mips_tb
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/global_def.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/global_def.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/lab2 - testbench and requirements/cpu 7 verilog cai/GPR.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/lab2 - testbench and requirements/cpu 7 verilog cai/GPR.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module GPR
+
+Top level modules:
+	GPR
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/encode_control_define.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/encode_control_define.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/instruction_def.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/instruction_def.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/EXT.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/EXT.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module EXT
+
+Top level modules:
+	EXT
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/NPC.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/NPC.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module NPC
+
+Top level modules:
+	NPC
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/mux.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/mux.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {F:/Program Files (x86)/modelsim/examples/flopr.v} {1 {vlog -work work -vopt {F:/Program Files (x86)/modelsim/examples/flopr.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}}
