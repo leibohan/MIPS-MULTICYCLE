@@ -107,4 +107,8 @@
 |Zero|AluResult[31]|~Zero|~AluResult[31]|
 
 ### 其它各文件说明
-波形图中包括clk, instruction, PC, state序号信息，直到死循环为止。 屏幕输出为这一期间的屏幕打印信息，包括相关寄存器与相关内存、PC、二进制格式的instruction. Python程序是一个把txt文件写入IM的小工具，输出文件是另一个txt文件。 src文件夹内为全部代码。
+波形图中包括clk, instruction, PC, state序号信息，直到死循环为止。
+屏幕输出为这一期间的屏幕打印信息，包括相关寄存器与相关内存、PC、二进制格式的instruction.
+asm文件是测试汇编程序，由小工具编译为了十六进制汇编码。
+Python程序是一个把txt文件写入IM的小工具，输出文件是另一个txt文件。
+src文件夹内为全部代码。
